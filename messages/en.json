@@ -1,0 +1,85 @@
+{
+  "common": {
+    "appName": "AI Business SaaS",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "submit": "Submit"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "tasks": "Tasks",
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+  "landing": {
+    "hero": "AI-Powered Business Management",
+    "subtitle": "Manage your business with natural language AI",
+    "features": {
+      "ai": "AI Natural Language",
+      "aiDesc": "Create tasks by typing naturally - AI understands your intent",
+      "secure": "Secure & Multi-tenant",
+      "secureDesc": "Enterprise-grade security with Row Level Security",
+      "global": "Global & RTL Support",
+      "globalDesc": "Support for Hebrew, Arabic, and all major languages"
+    },
+    "getStarted": "Get Started",
+    "login": "Login"
+  },
+  "auth": {
+    "login": "Sign In",
+    "signup": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "google": "Continue with Google",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "loginError": "Failed to sign in",
+    "signupError": "Failed to sign up"
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "stats": {
+      "total": "Total Tasks",
+      "pending": "Pending",
+      "inProgress": "In Progress",
+      "completed": "Completed",
+      "highPriority": "High Priority"
+    },
+    "recentTasks": "Recent Tasks",
+    "noTasks": "No tasks yet. Create your first task!",
+    "addTask": "Add Task"
+  },
+  "tasks": {
+    "title": "Tasks",
+    "new": "New Task",
+    "placeholder": "Type your task naturally...",
+    "placeholderHint": "Try: Create task to review Q4 report by Friday high priority",
+    "interpreting": "Interpreting with AI...",
+    "status": {
+      "pending": "Pending",
+      "in_progress": "In Progress",
+      "completed": "Completed"
+    },
+    "priority": {
+      "low": "Low",
+      "medium": "Medium",
+      "high": "High"
+    },
+    "dueDate": "Due",
+    "created": "Created",
+    "delete": "Delete Task",
+    "deleteConfirm": "Are you sure you want to delete this task?"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "profile": "Profile",
+    "notifications": "Notifications"
+  }
+}

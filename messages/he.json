@@ -1,0 +1,85 @@
+{
+  "common": {
+    "appName": "AI Business SaaS",
+    "loading": "טוען...",
+    "error": "אירעה שגיאה",
+    "save": "שמור",
+    "cancel": "ביטול",
+    "delete": "מחק",
+    "edit": "ערוך",
+    "submit": "שלח"
+  },
+  "nav": {
+    "dashboard": "לוח בקרה",
+    "tasks": "משימות",
+    "settings": "הגדרות",
+    "logout": "התנתק"
+  },
+  "landing": {
+    "hero": "ניהול עסק מבוסס AI",
+    "subtitle": "נהל את העסק שלך בשפה טבעית עם בינה מלאכותית",
+    "features": {
+      "ai": "קלט שפה טבעית",
+      "aiDesc": "צור משימות על ידי הקלדה טבעית - הבינה מלאכותית מבינה את כוונתך",
+      "secure": "מאובטח ורב-משברתי",
+      "secureDesc": "אבטחה ברמה ארגונית עם Row Level Security",
+      "global": "תמיכה גלובלית ו-RTL",
+      "globalDesc": "תמיכה בעברית, ערבית וכל השפות העיקריות"
+    },
+    "getStarted": "התחל עכשיו",
+    "login": "התחבר"
+  },
+  "auth": {
+    "login": "התחבר",
+    "signup": "הירשם",
+    "email": "אימייל",
+    "password": "סיסמה",
+    "confirmPassword": "אימות סיסמה",
+    "google": "המשך עם Google",
+    "noAccount": "אין לך חשבון?",
+    "hasAccount": "כבר יש לך חשבון?",
+    "loginError": "ההתחברות נכשלה",
+    "signupError": "ההרשמה נכשלה"
+  },
+  "dashboard": {
+    "welcome": "ברוך שובך",
+    "stats": {
+      "total": "סה״כ משימות",
+      "pending": "בהמתנה",
+      "inProgress": "בביצוע",
+      "completed": "הושלמו",
+      "highPriority": "עדיפות גבוהה"
+    },
+    "recentTasks": "משימות אחרונות",
+    "noTasks": "אין עדיין משימות. צור את המשימה הראשונה שלך!",
+    "addTask": "הוסף משימה"
+  },
+  "tasks": {
+    "title": "משימות",
+    "new": "משימה חדשה",
+    "placeholder": "הקלד את המשימה שלך בשפה טבעית...",
+    "placeholderHint": "נסה: צור משימה לסקור דוח Q4 עד יום שישי עדיפות גבוהה",
+    "interpreting": "מפרש עם AI...",
+    "status": {
+      "pending": "בהמתנה",
+      "in_progress": "בביצוע",
+      "completed": "הושלמה"
+    },
+    "priority": {
+      "low": "נמוכה",
+      "medium": "בינונית",
+      "high": "גבוהה"
+    },
+    "dueDate": "עד",
+    "created": "נוצר",
+    "delete": "מחק משימה",
+    "deleteConfirm": "האם אתה בטוח שברצונך למחוק משימה זו?"
+  },
+  "settings": {
+    "title": "הגדרות",
+    "language": "שפה",
+    "theme": "עיצוב",
+    "profile": "פרופיל",
+    "notifications": "התראות"
+  }
+}
